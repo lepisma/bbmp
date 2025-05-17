@@ -1,0 +1,3 @@
+#+TITLE: bmc
+
+Home page for Bengaluru Mathematics Club (BMC).
