@@ -1,6 +1,8 @@
 #+TITLE: BBMP: BB@@html:<span style="color: gray">@@engaluru @@html:</span>@@M@@html:<span style="color: gray">@@athematics Club@@html:</span>@@P
 #+TODO: UPCOMING | DONE
-#+OPTIONS: num:nil toc:nil
+#+OPTIONS: toc:nil p:t
+
+#+HTML_HEAD: <link rel="stylesheet" href="https://edwardtufte.github.io/tufte-css/tufte.css">
 
 Welcome to the home page of BBMP! We keep resources and meeting archives here.
 
@@ -24,11 +26,12 @@ Since we don't have a group email ID, to contact us please write to [[https://le
 
 * Archive
 
-** UPCOMING BBMP #2: <2025-06-08 Sun>
+** UPCOMING BBMP #2
 SCHEDULED: <2025-06-08 Sun>
 Physical meetup.
 
-** DONE BBMP #1: <2025-05-27 Tue> 
+** DONE BBMP #1
+SCHEDULED: <2025-05-27 Tue>
 Participants: @Abhishek, @Manas, @Sanchit, and @Abhinav
 
 Virtual check in.
@@ -37,7 +40,8 @@ Virtual check in.
 1. [[https://gregorygundersen.com/blog][Gregory Gundersen's blog]]
 2. "An Introduction to Game Theory" by /Martin J. Osborne/
 
-** DONE BBMP #0: <2025-05-18 Sun>
+** DONE BBMP #0
+SCHEDULED: <2025-05-18 Sun>
 Participants: @Ankit, @Manas, @Vivitsa, @Prabhsharan, and @Abhinav
 
 Our first meetup (physical). We had some discussions around people's interest
@@ -66,7 +70,3 @@ pop-maths feel to them:
 1. [[https://www.goodreads.com/book/show/6493321][Logicomix: An Epic Search for Truth]]
 2. [[https://en.wikipedia.org/wiki/Flatland][Flatland: A Romance of Many Dimensions]]
 3. [[https://goodreads.com/book/show/484458.Surreal_Numbers][Surreal Numbers]]
-
-#+HTML: <link rel="stylesheet"href="https://casual-effects.com/markdeep/latest/latex.css?">
-
-#+HTML: <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://morgan3d.github.io/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
