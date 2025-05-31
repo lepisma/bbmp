@@ -1,3 +1,4 @@
 #+TITLE: bbmp
 
-Home page for Bengaluru Mathematics Club (BBMP).
+Home page for Bengaluru Mathematics Club (BBMP). Submit PRs for changes in the
+Org file ~./index.org~.

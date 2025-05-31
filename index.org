@@ -1,0 +1,72 @@
+#+TITLE: BBMP: BB@@html:<span style="color: gray">@@engaluru @@html:</span>@@M@@html:<span style="color: gray">@@athematics Club@@html:</span>@@P
+#+TODO: UPCOMING | DONE
+#+OPTIONS: num:nil toc:nil
+
+Welcome to the home page of BBMP! We keep resources and meeting archives here.
+
+To contribute, add content, or suggest changes, please submit PRs [[https://github.com/lepisma/bbmp/blob/main/index.org][here]]. The file
+is an Org Mode file that gets converted to this HTML.
+
+#+begin_quote
+You can subscribe to the event calendar [[https://lepisma.xyz/bbmp/cal.ics][here]].
+#+end_quote
+
+Since we don't have a group email ID, to contact us please write to [[https://lepisma.xyz/wiki/about/contact.html][Abhinav]].
+
+#+begin_src emacs-lisp :exports none
+  ;; Run this to export dates as a calendar file
+  (customize-set-variable 'org-icalendar-use-deadline '(event-if-not-todo event-if-todo todo-due))
+  (customize-set-variable 'org-icalendar-use-scheduled '(event-if-not-todo event-if-todo todo-start))
+  (org-icalendar-export-to-ics)
+
+  (rename-file "index.ics" "cal.ics" t)
+#+end_src
+
+* Archive
+
+** UPCOMING BBMP #2: <2025-06-08 Sun>
+SCHEDULED: <2025-06-08 Sun>
+Physical meetup.
+
+** DONE BBMP #1: <2025-05-27 Tue> 
+Participants: @Abhishek, @Manas, @Sanchit, and @Abhinav
+
+Virtual check in.
+
+*** Links
+1. [[https://gregorygundersen.com/blog][Gregory Gundersen's blog]]
+2. "An Introduction to Game Theory" by /Martin J. Osborne/
+
+** DONE BBMP #0: <2025-05-18 Sun>
+Participants: @Ankit, @Manas, @Vivitsa, @Prabhsharan, and @Abhinav
+
+Our first meetup (physical). We had some discussions around people's interest
+areas within Mathematics and how we want to take this forward. Additionally
+Manas took a session on [[https://en.wikipedia.org/wiki/Ramsey%27s_theorem][Ramsey's theorem]].
+
+*** From the Whiteboard
+
+#+CAPTION: Interest areas
+[[./images/0/areas.jpeg]]
+
+#+CAPTION: Ramsey's Theorem
+[[./images/0/ramsey.jpeg]]
+
+*** Links
+Here are a few links that were shared in and around the discussion:
+
+1. [[https://www.goodreads.com/book/show/1229612.Mathematical_Circles][Mathematical Circles]]
+2. [[https://mathoverflow.net/questions/2842/infinite-ramsey-theorem-with-infinitely-many-colours][Infinite Ramsey theorem with infinitely many colours]]
+
+* Resources
+Here we collect a few motivational reads for different areas in Mathematics that
+some of us mentioned in our meetups. These are less theory heavy and have more
+pop-maths feel to them:
+
+1. [[https://www.goodreads.com/book/show/6493321][Logicomix: An Epic Search for Truth]]
+2. [[https://en.wikipedia.org/wiki/Flatland][Flatland: A Romance of Many Dimensions]]
+3. [[https://goodreads.com/book/show/484458.Surreal_Numbers][Surreal Numbers]]
+
+#+HTML: <link rel="stylesheet"href="https://casual-effects.com/markdeep/latest/latex.css?">
+
+#+HTML: <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://morgan3d.github.io/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>

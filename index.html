@@ -1,63 +1,324 @@
-**BBMP: BB<span style="color: gray">engaluru </span>M<span style="color: gray">athematics Club</span>P**
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<!-- 2025-05-31 Sat 17:09 -->
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>BBMP: BB@@html:&lt;span style="color: gray"&gt;@@engaluru @@html:&lt;/span&gt;@@M@@html:&lt;span style="color: gray"&gt;@@athematics Club@@html:&lt;/span&gt;@@P</title>
+<meta name="author" content="Abhinav Tushar" />
+<meta name="generator" content="Org Mode" />
+<style type="text/css">
+  #content { max-width: 60em; margin: auto; }
+  .title  { text-align: center;
+             margin-bottom: .2em; }
+  .subtitle { text-align: center;
+              font-size: medium;
+              font-weight: bold;
+              margin-top:0; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { font-family: monospace; color: green; }
+  .priority { font-family: monospace; color: orange; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .org-right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .org-left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .org-center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #e6e6e6;
+    border-radius: 3px;
+    background-color: #f2f2f2;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: auto;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    top: -8px;
+    right: 12px;
+    padding: 3px;
+    color: #555;
+    background-color: #f2f2f299;
+  }
+  pre.src:hover:before { display: inline; margin-top: 14px;}
+  /* Languages per Org manual */
+  pre.src-asymptote:before { content: 'Asymptote'; }
+  pre.src-awk:before { content: 'Awk'; }
+  pre.src-authinfo::before { content: 'Authinfo'; }
+  pre.src-C:before { content: 'C'; }
+  /* pre.src-C++ doesn't work in CSS */
+  pre.src-clojure:before { content: 'Clojure'; }
+  pre.src-css:before { content: 'CSS'; }
+  pre.src-D:before { content: 'D'; }
+  pre.src-ditaa:before { content: 'ditaa'; }
+  pre.src-dot:before { content: 'Graphviz'; }
+  pre.src-calc:before { content: 'Emacs Calc'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-fortran:before { content: 'Fortran'; }
+  pre.src-gnuplot:before { content: 'gnuplot'; }
+  pre.src-haskell:before { content: 'Haskell'; }
+  pre.src-hledger:before { content: 'hledger'; }
+  pre.src-java:before { content: 'Java'; }
+  pre.src-js:before { content: 'Javascript'; }
+  pre.src-latex:before { content: 'LaTeX'; }
+  pre.src-ledger:before { content: 'Ledger'; }
+  pre.src-lisp:before { content: 'Lisp'; }
+  pre.src-lilypond:before { content: 'Lilypond'; }
+  pre.src-lua:before { content: 'Lua'; }
+  pre.src-matlab:before { content: 'MATLAB'; }
+  pre.src-mscgen:before { content: 'Mscgen'; }
+  pre.src-ocaml:before { content: 'Objective Caml'; }
+  pre.src-octave:before { content: 'Octave'; }
+  pre.src-org:before { content: 'Org mode'; }
+  pre.src-oz:before { content: 'OZ'; }
+  pre.src-plantuml:before { content: 'Plantuml'; }
+  pre.src-processing:before { content: 'Processing.js'; }
+  pre.src-python:before { content: 'Python'; }
+  pre.src-R:before { content: 'R'; }
+  pre.src-ruby:before { content: 'Ruby'; }
+  pre.src-sass:before { content: 'Sass'; }
+  pre.src-scheme:before { content: 'Scheme'; }
+  pre.src-screen:before { content: 'Gnu Screen'; }
+  pre.src-sed:before { content: 'Sed'; }
+  pre.src-sh:before { content: 'shell'; }
+  pre.src-sql:before { content: 'SQL'; }
+  pre.src-sqlite:before { content: 'SQLite'; }
+  /* additional languages in org.el's org-babel-load-languages alist */
+  pre.src-forth:before { content: 'Forth'; }
+  pre.src-io:before { content: 'IO'; }
+  pre.src-J:before { content: 'J'; }
+  pre.src-makefile:before { content: 'Makefile'; }
+  pre.src-maxima:before { content: 'Maxima'; }
+  pre.src-perl:before { content: 'Perl'; }
+  pre.src-picolisp:before { content: 'Pico Lisp'; }
+  pre.src-scala:before { content: 'Scala'; }
+  pre.src-shell:before { content: 'Shell Script'; }
+  pre.src-ebnf2ps:before { content: 'ebfn2ps'; }
+  /* additional language identifiers per "defun org-babel-execute"
+       in ob-*.el */
+  pre.src-cpp:before  { content: 'C++'; }
+  pre.src-abc:before  { content: 'ABC'; }
+  pre.src-coq:before  { content: 'Coq'; }
+  pre.src-groovy:before  { content: 'Groovy'; }
+  /* additional language identifiers from org-babel-shell-names in
+     ob-shell.el: ob-shell is the only babel language using a lambda to put
+     the execution function name together. */
+  pre.src-bash:before  { content: 'bash'; }
+  pre.src-csh:before  { content: 'csh'; }
+  pre.src-ash:before  { content: 'ash'; }
+  pre.src-dash:before  { content: 'dash'; }
+  pre.src-ksh:before  { content: 'ksh'; }
+  pre.src-mksh:before  { content: 'mksh'; }
+  pre.src-posh:before  { content: 'posh'; }
+  /* Additional Emacs modes also supported by the LaTeX listings package */
+  pre.src-ada:before { content: 'Ada'; }
+  pre.src-asm:before { content: 'Assembler'; }
+  pre.src-caml:before { content: 'Caml'; }
+  pre.src-delphi:before { content: 'Delphi'; }
+  pre.src-html:before { content: 'HTML'; }
+  pre.src-idl:before { content: 'IDL'; }
+  pre.src-mercury:before { content: 'Mercury'; }
+  pre.src-metapost:before { content: 'MetaPost'; }
+  pre.src-modula-2:before { content: 'Modula-2'; }
+  pre.src-pascal:before { content: 'Pascal'; }
+  pre.src-ps:before { content: 'PostScript'; }
+  pre.src-prolog:before { content: 'Prolog'; }
+  pre.src-simula:before { content: 'Simula'; }
+  pre.src-tcl:before { content: 'tcl'; }
+  pre.src-tex:before { content: 'TeX'; }
+  pre.src-plain-tex:before { content: 'Plain TeX'; }
+  pre.src-verilog:before { content: 'Verilog'; }
+  pre.src-vhdl:before { content: 'VHDL'; }
+  pre.src-xml:before { content: 'XML'; }
+  pre.src-nxml:before { content: 'XML'; }
+  /* add a generic configuration mode; LaTeX export needs an additional
+     (add-to-list 'org-latex-listings-langs '(conf " ")) in .emacs */
+  pre.src-conf:before { content: 'Configuration File'; }
 
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.org-right  { text-align: center;  }
+  th.org-left   { text-align: center;   }
+  th.org-center { text-align: center; }
+  td.org-right  { text-align: right;  }
+  td.org-left   { text-align: left;   }
+  td.org-center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara { display: inline; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .equation-container {
+    display: table;
+    text-align: center;
+    width: 100%;
+  }
+  .equation {
+    vertical-align: middle;
+  }
+  .equation-label {
+    display: table-cell;
+    text-align: right;
+    vertical-align: middle;
+  }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  .org-svg { }
+</style>
+</head>
+<body>
+<div id="content" class="content">
+<h1 class="title">BBMP: BB<span style="color: gray">engaluru </span>M<span style="color: gray">athematics Club</span>P</h1>
+<p>
 Welcome to the home page of BBMP! We keep resources and meeting archives here.
+</p>
 
-To contribute, add content, or suggest changes, please submit PRs
-[here](https://github.com/lepisma/bbmp/blob/main/index.html). The file is a
-simple markdown file (extension is HTML) which is rendered in the browser using
-[Markdeep](https://casual-effects.com/markdeep/).
+<p>
+To contribute, add content, or suggest changes, please submit PRs <a href="https://github.com/lepisma/bbmp/blob/main/index.org">here</a>. The file
+is an Org Mode file that gets converted to this HTML.
+</p>
 
->
-> You can subscribe to the event calendar [here](https://lepisma.xyz/bbmp/cal.ics).
->
+<blockquote>
+<p>
+You can subscribe to the event calendar <a href="https://lepisma.xyz/bbmp/cal.ics">here</a>.
+</p>
+</blockquote>
 
-Since we don't have a group email ID, to contact us please write to [Abhinav](https://lepisma.xyz/wiki/about/contact.html).
-
-# Archive
-
-## UPCOMING 8th June 2025
-
+<p>
+Since we don't have a group email ID, to contact us please write to <a href="https://lepisma.xyz/wiki/about/contact.html">Abhinav</a>.
+</p>
+<div id="outline-container-org6047162" class="outline-2">
+<h2 id="org6047162">Archive</h2>
+<div class="outline-text-2" id="text-org6047162">
+</div>
+<div id="outline-container-orge235655" class="outline-3">
+<h3 id="orge235655"><span class="todo UPCOMING">UPCOMING</span> BBMP #2: <span class="timestamp-wrapper"><span class="timestamp">&lt;2025-06-08 Sun&gt;</span></span></h3>
+<div class="outline-text-3" id="text-orge235655">
+<p>
 Physical meetup.
+</p>
+</div>
+</div>
+<div id="outline-container-org5401e39" class="outline-3">
+<h3 id="org5401e39"><span class="done DONE">DONE</span> BBMP #1: <span class="timestamp-wrapper"><span class="timestamp">&lt;2025-05-27 Tue&gt;</span></span></h3>
+<div class="outline-text-3" id="text-org5401e39">
+<p>
+Participants: @Abhishek, @Manas, @Sanchit, and @Abhinav
+</p>
 
-## 27th May 2025
-Participants: Abhishek, Manas, Sanchit, and Abhinav
-
+<p>
 Virtual check in.
+</p>
+</div>
+<div id="outline-container-org08fdc72" class="outline-4">
+<h4 id="org08fdc72">Links</h4>
+<div class="outline-text-4" id="text-org08fdc72">
+<ol class="org-ol">
+<li><a href="https://gregorygundersen.com/blog">Gregory Gundersen's blog</a></li>
+<li>"An Introduction to Game Theory" by <i>Martin J. Osborne</i></li>
+</ol>
+</div>
+</div>
+</div>
+<div id="outline-container-org96ca228" class="outline-3">
+<h3 id="org96ca228"><span class="done DONE">DONE</span> BBMP #0: <span class="timestamp-wrapper"><span class="timestamp">&lt;2025-05-18 Sun&gt;</span></span></h3>
+<div class="outline-text-3" id="text-org96ca228">
+<p>
+Participants: @Ankit, @Manas, @Vivitsa, @Prabhsharan, and @Abhinav
+</p>
 
-### Links
-1. [Gregory Gundersen's Blog](https://gregorygundersen.com/blog/)
-2. "An Introduction to Game Theory" by _Martin J. Osborne_
+<p>
+Our first meetup (physical). We had some discussions around people's interest
+areas within Mathematics and how we want to take this forward. Additionally
+Manas took a session on <a href="https://en.wikipedia.org/wiki/Ramsey%27s_theorem">Ramsey's theorem</a>.
+</p>
+</div>
+<div id="outline-container-orge07f2b9" class="outline-4">
+<h4 id="orge07f2b9">From the Whiteboard</h4>
+<div class="outline-text-4" id="text-orge07f2b9">
 
-## 18th May 2025
-Participants: Ankit, Manas, Vivitsa, Prabhsharan, and Abhinav
+<div id="org4d23176" class="figure">
+<p><img src="./images/0/areas.jpeg" alt="areas.jpeg" />
+</p>
+<p><span class="figure-number">Figure 1: </span>Interest areas</p>
+</div>
 
-Our first meetup (physical). We had some discussions around people's interest areas within Mathematics and how we want to take this forward. Additionally Manas took a session on [Ramsey's theorem](https://en.wikipedia.org/wiki/Ramsey%27s_theorem).
 
-### From the Whiteboard
-
-![Interest areas](./images/0/areas.jpeg)
-
-![Ramsey's Theorem](./images/0/ramsey.jpeg)
-
-### Links
+<div id="orgaf9ddbb" class="figure">
+<p><img src="./images/0/ramsey.jpeg" alt="ramsey.jpeg" />
+</p>
+<p><span class="figure-number">Figure 2: </span>Ramsey's Theorem</p>
+</div>
+</div>
+</div>
+<div id="outline-container-orgac067fe" class="outline-4">
+<h4 id="orgac067fe">Links</h4>
+<div class="outline-text-4" id="text-orgac067fe">
+<p>
 Here are a few links that were shared in and around the discussion:
+</p>
 
-1. [Mathematical Circles](https://www.goodreads.com/book/show/1229612.Mathematical_Circles)
-2. [Infinite Ramsey theorem with infinitely many
-   colours](https://mathoverflow.net/questions/2842/infinite-ramsey-theorem-with-infinitely-many-colours)
-   
-# Resources
-
+<ol class="org-ol">
+<li><a href="https://www.goodreads.com/book/show/1229612.Mathematical_Circles">Mathematical Circles</a></li>
+<li><a href="https://mathoverflow.net/questions/2842/infinite-ramsey-theorem-with-infinitely-many-colours">Infinite Ramsey theorem with infinitely many colours</a></li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="outline-container-org199d5ad" class="outline-2">
+<h2 id="org199d5ad">Resources</h2>
+<div class="outline-text-2" id="text-org199d5ad">
+<p>
 Here we collect a few motivational reads for different areas in Mathematics that
 some of us mentioned in our meetups. These are less theory heavy and have more
 pop-maths feel to them:
+</p>
 
-1. [Logicomix: An Epic Search for
-   Truth](https://www.goodreads.com/book/show/6493321)
-2. [Flatland: A Romance of Many
-   Dimensions](https://en.wikipedia.org/wiki/Flatland)
-3. [Surreal Numbers](https://goodreads.com/book/show/484458.Surreal_Numbers)
+<ol class="org-ol">
+<li><a href="https://www.goodreads.com/book/show/6493321">Logicomix: An Epic Search for Truth</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Flatland">Flatland: A Romance of Many Dimensions</a></li>
+<li><a href="https://goodreads.com/book/show/484458.Surreal_Numbers">Surreal Numbers</a></li>
+</ol>
 
-<link rel="stylesheet" href="https://casual-effects.com/markdeep/latest/latex.css?">
+<link rel="stylesheet"href="https://casual-effects.com/markdeep/latest/latex.css?">
 
 <!-- Markdeep: --><style class="fallback">body{visibility:hidden;white-space:pre;font-family:monospace}</style><script src="markdeep.min.js" charset="utf-8"></script><script src="https://morgan3d.github.io/markdeep/latest/markdeep.min.js" charset="utf-8"></script><script>window.alreadyProcessedMarkdeep||(document.body.style.visibility="visible")</script>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<p class="author">Author: Abhinav Tushar</p>
+<p class="date">Created: 2025-05-31 Sat 17:09</p>
+<p class="validation"><a href="https://validator.w3.org/check?uri=referer">Validate</a></p>
+</div>
+</body>
+</html>
