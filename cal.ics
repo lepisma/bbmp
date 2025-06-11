@@ -6,12 +6,45 @@ X-WR-TIMEZONE:IST
 X-WR-CALDESC:BBMP: BBengaluru Mathematics ClubP
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250531T113801Z
-UID:SC-30444a7e-c72e-450e-b421-c48084d1781c
+DTSTAMP:20250611T051757Z
+UID:SC-721ae8c2-2ec8-41d8-8080-3c1ca4489048
+DTSTART;VALUE=DATE:20250615
+DTEND;VALUE=DATE:20250616
+SUMMARY:S: BBMP #3
+CATEGORIES:index
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250611T051757Z
+UID:SC-0cf9efc8-a220-4c79-a3b2-b99627df055b
 DTSTART;VALUE=DATE:20250608
 DTEND;VALUE=DATE:20250609
-SUMMARY:S: 8th June 2025
-DESCRIPTION:Physical meetup.
+SUMMARY:S: BBMP #2
+DESCRIPTION:Participants: @Vivitsa\, @Prabhsharan\, @Manas\, and @Abhinav\n
+ \nPhysical meetup. We discussed a few resources that people are\nstudying.
+  Also discussed a little bit of Modular forms and FLT.
+CATEGORIES:index
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250611T051758Z
+UID:SC-8963f90d-e04e-441f-b849-0d242fb5e93c
+DTSTART;VALUE=DATE:20250527
+DTEND;VALUE=DATE:20250528
+SUMMARY:S: BBMP #1
+DESCRIPTION:Participants: @Abhishek\, @Manas\, @Sanchit\, and @Abhinav\n\nV
+ irtual check in and updates.
+CATEGORIES:index
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20250611T051758Z
+UID:SC-b891c911-9bd8-4b8c-9942-d86de1bcc4a3
+DTSTART;VALUE=DATE:20250518
+DTEND;VALUE=DATE:20250519
+SUMMARY:S: BBMP #0
+DESCRIPTION:Participants: @Ankit\, @Manas\, @Vivitsa\, @Prabhsharan\, and @
+ Abhinav\n\nOur first meetup (physical). We had some discussions around peo
+ ple's\ninterest areas within Mathematics and how we want to take this\nfor
+ ward. Additionally Manas took a session on [Ramsey's theorem]\n(<https://e
+ n.wikipedia.org/wiki/Ramsey%27s_theorem>).
 CATEGORIES:index
 END:VEVENT
 END:VCALENDAR

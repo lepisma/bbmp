@@ -34,15 +34,29 @@ Since we don't have a group email ID, to contact us please write to [[https://le
 
 * Archive
 
-** UPCOMING BBMP #2
+** UPCOMING BBMP #3
+SCHEDULED: <2025-06-15 Sun>
+
+** DONE BBMP #2
 SCHEDULED: <2025-06-08 Sun>
-Physical meetup.
+Participants: @Vivitsa, @Prabhsharan, @Manas, and @Abhinav
+
+Physical meetup. We discussed a few resources that people are studying. Also
+discussed a little bit of Modular forms and FLT.
+
+*** Links
+1. "[[https://www.goodreads.com/book/show/773517.The_Shape_of_Space][Shape of Space]]" by Jeffrey R. Weeks
+2. [[https://youtube.com/playlist?list=PLF797E961509B4EB5&si=qMpEm7wfqpN9jxZ8][Calculus Playlist]]
+3. [[https://person594.github.io/cplot/#1%2Fz][A few]] [[https://roywilliams.github.io/play/js/sl2z/][complex]] [[https://mabotkin.github.io/complex/][transformation]] visualization tools
+4. [[https://www.cs.columbia.edu/~johnhew//fun-linear-transformations.html][Fun with Linear Transformations and Symbolic Maps · John Hewitt]]
+5. [[https://ctnt-summer.math.uconn.edu/wp-content/uploads/sites/1632/2016/02/CTNTmodularforms.pdf][Modular Forms - CTNT 2016]]
+6. [[https://leanprover-community.github.io/blog/posts/FLT-announcement/][The Fermat's Last Theorem Project | Lean community blog]]
 
 ** DONE BBMP #1
 SCHEDULED: <2025-05-27 Tue>
 Participants: @Abhishek, @Manas, @Sanchit, and @Abhinav
 
-Virtual check in.
+Virtual check in and updates.
 
 *** Links
 1. [[https://gregorygundersen.com/blog][Gregory Gundersen's blog]]
