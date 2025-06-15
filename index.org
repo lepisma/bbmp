@@ -32,10 +32,18 @@ Since we don't have a group email ID, to contact us please write to [[https://le
   (rename-file "index.ics" "cal.ics" t)
 #+end_src
 
+#+RESULTS:
+
 * Archive
 
-** UPCOMING BBMP #3
+** UPCOMING BBMP #4
+
+** DONE BBMP #3
 SCHEDULED: <2025-06-15 Sun>
+Participants: @Satvik, @Abhinav, and @Manas
+
+We discussed Euler's proof of Fermat's Last Theorem for $n = 3$ and formulation
+for generating Pythagorean Triples ($a^2 + b^2 = c^2$) from coprimes.
 
 ** DONE BBMP #2
 SCHEDULED: <2025-06-08 Sun>
