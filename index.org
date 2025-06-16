@@ -12,7 +12,10 @@
 </style>
 #+end_export
 
-Welcome to the home page of BBMP! We keep resources and meeting archives here.
+Welcome to the home page of BBMP, a Bengaluru based Mathematics Club focused on
+the pleasure of understanding.
+
+This website is to keep resources and meeting archives.
 
 To contribute, add content, or suggest changes, please submit PRs [[https://github.com/lepisma/bbmp/blob/main/index.org][here]]. The file
 is an Org Mode file that gets converted to this HTML.
@@ -37,16 +40,28 @@ Since we don't have a group email ID, to contact us please write to [[https://le
 * Archive
 
 ** UPCOMING BBMP #4
+:PROPERTIES:
+:LOCATION: Dialogues Cafe, Koramangala
+:ID:       02fb7554-5948-4094-ba49-66f482b8e622
+:END:
 
 ** DONE BBMP #3
-SCHEDULED: <2025-06-15 Sun>
+SCHEDULED: <2025-06-15 Sun 15:00-17:30>
+:PROPERTIES:
+:LOCATION: Dialogues Cafe, Koramangala
+:ID:       bca8d56d-e906-4006-812e-a5f5fe833962
+:END:
 Participants: @Satvik, @Abhinav, and @Manas
 
 We discussed Euler's proof of Fermat's Last Theorem for $n = 3$ and formulation
 for generating Pythagorean Triples ($a^2 + b^2 = c^2$) from coprimes.
 
 ** DONE BBMP #2
-SCHEDULED: <2025-06-08 Sun>
+SCHEDULED: <2025-06-08 Sun 15:00-16:00>
+:PROPERTIES:
+:LOCATION: Private
+:ID:       10b49d7a-18f9-4896-841a-e5b87d47c04a
+:END:
 Participants: @Vivitsa, @Prabhsharan, @Manas, and @Abhinav
 
 Physical meetup. We discussed a few resources that people are studying. Also
@@ -61,7 +76,11 @@ discussed a little bit of Modular forms and FLT.
 6. [[https://leanprover-community.github.io/blog/posts/FLT-announcement/][The Fermat's Last Theorem Project | Lean community blog]]
 
 ** DONE BBMP #1
-SCHEDULED: <2025-05-27 Tue>
+SCHEDULED: <2025-05-27 Tue 21:00-21:30>
+:PROPERTIES:
+:LOCATION: Online
+:ID:       74198a51-6a68-44ec-91a3-dbecba8174b4
+:END:
 Participants: @Abhishek, @Manas, @Sanchit, and @Abhinav
 
 Virtual check in and updates.
@@ -71,7 +90,11 @@ Virtual check in and updates.
 2. "An Introduction to Game Theory" by /Martin J. Osborne/
 
 ** DONE BBMP #0
-SCHEDULED: <2025-05-18 Sun>
+SCHEDULED: <2025-05-18 Sun 14:00-16:00>
+:PROPERTIES:
+:LOCATION: Private
+:ID:       9aced0ef-d1ac-4326-8d5d-6206a472a0be
+:END:
 Participants: @Ankit, @Manas, @Vivitsa, @Prabhsharan, and @Abhinav
 
 Our first meetup (physical). We had some discussions around people's interest

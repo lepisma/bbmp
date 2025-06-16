@@ -6,43 +6,47 @@ X-WR-TIMEZONE:IST
 X-WR-CALDESC:BBMP: BBengaluru Mathematics ClubP
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250615T194909Z
-UID:SC-69061664-e361-4da4-9e17-04bb6506ae8b
-DTSTART;VALUE=DATE:20250615
-DTEND;VALUE=DATE:20250616
+DTSTAMP:20250616T070732Z
+UID:SC-bca8d56d-e906-4006-812e-a5f5fe833962
+DTSTART:20250615T150000
+DTEND:20250615T173000
 SUMMARY:S: BBMP #3
+LOCATION:Dialogues Cafe\, Koramangala
 DESCRIPTION:Participants: @Satvik\, @Abhinav\, and @Manas\n\nWe discussed E
  uler's proof of Fermat's Last Theorem for $n = 3$ and\nformulation for gen
  erating Pythagorean Triples ($a^2 + b^2 = c^2$)\nfrom coprimes.
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T194909Z
-UID:SC-d4060925-5bda-47aa-af64-22f70a2afdc2
-DTSTART;VALUE=DATE:20250608
-DTEND;VALUE=DATE:20250609
+DTSTAMP:20250616T070732Z
+UID:SC-10b49d7a-18f9-4896-841a-e5b87d47c04a
+DTSTART:20250608T150000
+DTEND:20250608T160000
 SUMMARY:S: BBMP #2
+LOCATION:Private
 DESCRIPTION:Participants: @Vivitsa\, @Prabhsharan\, @Manas\, and @Abhinav\n
  \nPhysical meetup. We discussed a few resources that people are\nstudying.
   Also discussed a little bit of Modular forms and FLT.
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T194910Z
-UID:SC-c68beb8e-e2f2-4dcc-b10a-b5973dd733b0
-DTSTART;VALUE=DATE:20250527
-DTEND;VALUE=DATE:20250528
+DTSTAMP:20250616T070732Z
+UID:SC-74198a51-6a68-44ec-91a3-dbecba8174b4
+DTSTART:20250527T210000
+DTEND:20250527T213000
 SUMMARY:S: BBMP #1
+LOCATION:Online
 DESCRIPTION:Participants: @Abhishek\, @Manas\, @Sanchit\, and @Abhinav\n\nV
  irtual check in and updates.
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250615T194910Z
-UID:SC-faefde2b-e81f-46bf-89af-fb58c4ebb826
-DTSTART;VALUE=DATE:20250518
-DTEND;VALUE=DATE:20250519
+DTSTAMP:20250616T070732Z
+UID:SC-9aced0ef-d1ac-4326-8d5d-6206a472a0be
+DTSTART:20250518T140000
+DTEND:20250518T160000
 SUMMARY:S: BBMP #0
+LOCATION:Private
 DESCRIPTION:Participants: @Ankit\, @Manas\, @Vivitsa\, @Prabhsharan\, and @
  Abhinav\n\nOur first meetup (physical). We had some discussions around peo
  ple's\ninterest areas within Mathematics and how we want to take this\nfor
