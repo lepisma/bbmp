@@ -39,7 +39,14 @@ Since we don't have a group email ID, to contact us please write to [[https://le
 
 * Archive
 
+** UPCOMING BBMP #5
+SCHEDULED: <2025-06-29 Sun>
+:PROPERTIES:
+:LOCATION: Dialogues Cafe, Koramangala
+:END:
+
 ** UPCOMING BBMP #4
+SCHEDULED: <2025-06-22 Sun 14:00-16:00>
 :PROPERTIES:
 :LOCATION: Dialogues Cafe, Koramangala
 :ID:       02fb7554-5948-4094-ba49-66f482b8e622
