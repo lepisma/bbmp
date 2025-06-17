@@ -1,6 +1,6 @@
 #+TITLE: BBMP: BB@@html:<span style="color: gray">@@engaluru @@html:</span>@@M@@html:<span style="color: gray">@@athematics Club@@html:</span>@@P
 #+TODO: UPCOMING | DONE
-#+OPTIONS: toc:nil p:t
+#+OPTIONS: toc:nil p:t prop:t
 
 #+HTML_HEAD: <link rel="stylesheet" href="https://edwardtufte.github.io/tufte-css/tufte.css">
 
@@ -38,7 +38,10 @@ Since we don't have a group email ID, to contact us please write to [[https://le
 SCHEDULED: <2025-06-29 Sun>
 :PROPERTIES:
 :LOCATION: Dialogues Cafe, Koramangala
+:ID:       6a68ff36-a38b-4918-bc7c-eb5cec3f0214
 :END:
+
+#+HTML: <br><br>
 
 ** UPCOMING BBMP #4
 SCHEDULED: <2025-06-22 Sun 14:00-16:00>
@@ -46,6 +49,8 @@ SCHEDULED: <2025-06-22 Sun 14:00-16:00>
 :LOCATION: Dialogues Cafe, Koramangala
 :ID:       02fb7554-5948-4094-ba49-66f482b8e622
 :END:
+
+#+HTML: <br><br>
 
 ** DONE BBMP #3
 SCHEDULED: <2025-06-15 Sun 15:00-17:30>
@@ -58,6 +63,8 @@ Participants: @Satvik, @Abhinav, and @Manas
 We discussed Euler's proof of Fermat's Last Theorem for $n = 3$ and formulation
 for generating Pythagorean Triples ($a^2 + b^2 = c^2$) from coprimes.
 
+#+HTML: <br><br>
+
 ** DONE BBMP #2
 SCHEDULED: <2025-06-08 Sun 15:00-16:00>
 :PROPERTIES:
@@ -66,8 +73,8 @@ SCHEDULED: <2025-06-08 Sun 15:00-16:00>
 :END:
 Participants: @Vivitsa, @Prabhsharan, @Manas, and @Abhinav
 
-Physical meetup. We discussed a few resources that people are studying. Also
-discussed a little bit of Modular forms and FLT.
+We discussed a few resources that people are studying. Also discussed a little
+bit of Modular forms and FLT.
 
 *** Links
 1. "[[https://www.goodreads.com/book/show/773517.The_Shape_of_Space][Shape of Space]]" by Jeffrey R. Weeks
@@ -76,6 +83,8 @@ discussed a little bit of Modular forms and FLT.
 4. [[https://www.cs.columbia.edu/~johnhew//fun-linear-transformations.html][Fun with Linear Transformations and Symbolic Maps · John Hewitt]]
 5. [[https://ctnt-summer.math.uconn.edu/wp-content/uploads/sites/1632/2016/02/CTNTmodularforms.pdf][Modular Forms - CTNT 2016]]
 6. [[https://leanprover-community.github.io/blog/posts/FLT-announcement/][The Fermat's Last Theorem Project | Lean community blog]]
+
+#+HTML: <br><br>
 
 ** DONE BBMP #1
 SCHEDULED: <2025-05-27 Tue 21:00-21:30>
@@ -90,6 +99,8 @@ Virtual check in and updates.
 *** Links
 1. [[https://gregorygundersen.com/blog][Gregory Gundersen's blog]]
 2. "An Introduction to Game Theory" by /Martin J. Osborne/
+
+#+HTML: <br><br>
 
 ** DONE BBMP #0
 SCHEDULED: <2025-05-18 Sun 14:00-16:00>
@@ -116,6 +127,8 @@ Here are a few links that were shared in and around the discussion:
 
 1. [[https://www.goodreads.com/book/show/1229612.Mathematical_Circles][Mathematical Circles]]
 2. [[https://mathoverflow.net/questions/2842/infinite-ramsey-theorem-with-infinitely-many-colours][Infinite Ramsey theorem with infinitely many colours]]
+
+#+HTML: <br><br>
 
 * Resources
 Here we collect a few motivational reads for different areas in Mathematics that

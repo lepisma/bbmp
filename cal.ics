@@ -6,70 +6,78 @@ X-WR-TIMEZONE:IST
 X-WR-CALDESC:BBMP: BBengaluru Mathematics ClubP
 CALSCALE:GREGORIAN
 BEGIN:VEVENT
-DTSTAMP:20250617T133951Z
-UID:SC-452c5d5e-8ffb-476a-9154-97386cd10f81
+DTSTAMP:20250617T134338Z
+UID:SC-6a68ff36-a38b-4918-bc7c-eb5cec3f0214
 DTSTART;VALUE=DATE:20250629
 DTEND;VALUE=DATE:20250630
 SUMMARY:S: BBMP #5
 LOCATION:Dialogues Cafe\, Koramangala
+DESCRIPTION:LOCATION: Dialogues Cafe\, Koramangala\nID: 6a68ff36-a38b-4918-
+ bc7c-eb5cec3f0214
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T133951Z
+DTSTAMP:20250617T134338Z
 UID:SC-02fb7554-5948-4094-ba49-66f482b8e622
 DTSTART:20250622T140000
 DTEND:20250622T160000
 SUMMARY:S: BBMP #4
 LOCATION:Dialogues Cafe\, Koramangala
+DESCRIPTION:LOCATION: Dialogues Cafe\, Koramangala\nID: 02fb7554-5948-4094-
+ ba49-66f482b8e622
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T133951Z
+DTSTAMP:20250617T134338Z
 UID:SC-bca8d56d-e906-4006-812e-a5f5fe833962
 DTSTART:20250615T150000
 DTEND:20250615T173000
 SUMMARY:S: BBMP #3
 LOCATION:Dialogues Cafe\, Koramangala
-DESCRIPTION:Participants: @Satvik\, @Abhinav\, and @Manas\n\nWe discussed E
- uler's proof of Fermat's Last Theorem for $n = 3$ and\nformulation for gen
- erating Pythagorean Triples ($a^2 + b^2 = c^2$)\nfrom coprimes.
+DESCRIPTION:LOCATION: Dialogues Cafe\, Koramangala\nID: bca8d56d-e906-4006-
+ 812e-a5f5fe833962\nParticipants: @Satvik\, @Abhinav\, and @Manas\n\nWe dis
+ cussed Euler's proof of Fermat's Last Theorem for $n = 3$ and\nformulation
+  for generating Pythagorean Triples ($a^2 + b^2 = c^2$)\nfrom coprimes.
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T133951Z
+DTSTAMP:20250617T134339Z
 UID:SC-10b49d7a-18f9-4896-841a-e5b87d47c04a
 DTSTART:20250608T150000
 DTEND:20250608T160000
 SUMMARY:S: BBMP #2
 LOCATION:Private
-DESCRIPTION:Participants: @Vivitsa\, @Prabhsharan\, @Manas\, and @Abhinav\n
- \nPhysical meetup. We discussed a few resources that people are\nstudying.
-  Also discussed a little bit of Modular forms and FLT.
+DESCRIPTION:LOCATION: Private\nID: 10b49d7a-18f9-4896-841a-e5b87d47c04a\nPa
+ rticipants: @Vivitsa\, @Prabhsharan\, @Manas\, and @Abhinav\n\nWe discusse
+ d a few resources that people are studying. Also discussed\na little bit o
+ f Modular forms and FLT.
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T133951Z
+DTSTAMP:20250617T134339Z
 UID:SC-74198a51-6a68-44ec-91a3-dbecba8174b4
 DTSTART:20250527T210000
 DTEND:20250527T213000
 SUMMARY:S: BBMP #1
 LOCATION:Online
-DESCRIPTION:Participants: @Abhishek\, @Manas\, @Sanchit\, and @Abhinav\n\nV
- irtual check in and updates.
+DESCRIPTION:LOCATION: Online\nID: 74198a51-6a68-44ec-91a3-dbecba8174b4\nPar
+ ticipants: @Abhishek\, @Manas\, @Sanchit\, and @Abhinav\n\nVirtual check i
+ n and updates.
 CATEGORIES:index
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20250617T133951Z
+DTSTAMP:20250617T134339Z
 UID:SC-9aced0ef-d1ac-4326-8d5d-6206a472a0be
 DTSTART:20250518T140000
 DTEND:20250518T160000
 SUMMARY:S: BBMP #0
 LOCATION:Private
-DESCRIPTION:Participants: @Ankit\, @Manas\, @Vivitsa\, @Prabhsharan\, and @
- Abhinav\n\nOur first meetup (physical). We had some discussions around peo
- ple's\ninterest areas within Mathematics and how we want to take this\nfor
- ward. Additionally Manas took a session on [Ramsey's theorem]\n(<https://e
- n.wikipedia.org/wiki/Ramsey%27s_theorem>).
+DESCRIPTION:LOCATION: Private\nID: 9aced0ef-d1ac-4326-8d5d-6206a472a0be\nPa
+ rticipants: @Ankit\, @Manas\, @Vivitsa\, @Prabhsharan\, and @Abhinav\n\nOu
+ r first meetup (physical). We had some discussions around people's\nintere
+ st areas within Mathematics and how we want to take this\nforward. Additio
+ nally Manas took a session on [Ramsey's theorem]\n(<https://en.wikipedia.o
+ rg/wiki/Ramsey%27s_theorem>).
 CATEGORIES:index
 END:VEVENT
 END:VCALENDAR
