@@ -13,16 +13,11 @@
 #+end_export
 
 Welcome to the home page of BBMP, a Bengaluru based Mathematics Club focused on
-the pleasure of understanding.
-
-This website is to keep resources and meeting archives.
+the pleasure of understanding. This website is to keep resources and meeting
+archives. You can subscribe to the event calendar [[https://lepisma.xyz/bbmp/cal.ics][here]].
 
 To contribute, add content, or suggest changes, please submit PRs [[https://github.com/lepisma/bbmp/blob/main/index.org][here]]. The file
 is an Org Mode file that gets converted to this HTML.
-
-#+begin_quote
-You can subscribe to the event calendar [[https://lepisma.xyz/bbmp/cal.ics][here]].
-#+end_quote
 
 Since we don't have a group email ID, to contact us please write to [[https://lepisma.xyz/wiki/about/contact.html][Abhinav]].
 
