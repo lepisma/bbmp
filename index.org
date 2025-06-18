@@ -14,7 +14,7 @@
 
 Welcome to the home page of BBMP, a Bengaluru based Mathematics Club focused on
 the pleasure of understanding. This website is to keep resources and meeting
-archives. You can subscribe to the event calendar [[https://lepisma.xyz/bbmp/cal.ics][here]].
+archives. You can subscribe to the event calendar [[https://bbmp.club/cal.ics][here]].
 
 To contribute, add content, or suggest changes, please submit PRs [[https://github.com/lepisma/bbmp/blob/main/index.org][here]]. The file
 is an Org Mode file that gets converted to this HTML.
@@ -49,6 +49,11 @@ SCHEDULED: <2025-06-22 Sun 14:00-16:00>
 :LOCATION: Dialogues Cafe, Koramangala
 :ID:       02fb7554-5948-4094-ba49-66f482b8e622
 :END:
+
+While we can't plan the meetup completely, expect at least the following:
+1. @Manas to cover /alleged/ Fermat's proof for FLT
+2. @Abhinav to either continue Modular forms or cover Lean formalization for
+   FLT(n=3)
 
 #+HTML: <br><br>
 
