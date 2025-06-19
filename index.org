@@ -21,6 +21,14 @@ is an Org Mode file that gets converted to this HTML.
 
 Since we don't have a group email ID, to contact us please write to [[https://lepisma.xyz/wiki/about/contact.html][Abhinav]].
 
+#+begin_export html
+<style>
+  pre {
+  background-color: unset !important;
+  }
+</style>
+#+end_export
+
 #+begin_src emacs-lisp :exports none
   ;; Run this to export dates as a calendar file
   (customize-set-variable 'org-icalendar-use-deadline '(event-if-not-todo event-if-todo todo-due))
