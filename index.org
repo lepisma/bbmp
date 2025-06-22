@@ -43,7 +43,7 @@ Since we don't have a group email ID, to contact us please write to [[https://le
 * Archive
 
 ** UPCOMING BBMP #5
-SCHEDULED: <2025-06-29 Sun>
+SCHEDULED: <2025-07-06 Sun>
 :PROPERTIES:
 :LOCATION: Dialogues Cafe, Koramangala
 :ID:       6a68ff36-a38b-4918-bc7c-eb5cec3f0214
@@ -52,11 +52,13 @@ SCHEDULED: <2025-06-29 Sun>
 #+HTML: <br><br>
 
 ** UPCOMING BBMP #4
-SCHEDULED: <2025-06-22 Sun 14:00-16:00>
+SCHEDULED: <2025-06-29 Sun 14:00-16:00>
 :PROPERTIES:
 :LOCATION: Dialogues Cafe, Koramangala
 :ID:       02fb7554-5948-4094-ba49-66f482b8e622
 :END:
+
+/This is rescheduled from 22nd June/
 
 While we can't plan the meetup completely, expect at least the following:
 1. @Manas to cover /alleged/ Fermat's proof for FLT
