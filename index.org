@@ -58,7 +58,9 @@ CLOSED: [2025-06-29 Sun 18:25] SCHEDULED: <2025-06-29 Sun 14:00-16:00>
 :ID:       02fb7554-5948-4094-ba49-66f482b8e622
 :END:
 
-/This is rescheduled from 22nd June/
+Participants: @Satvik, @Abhinav, and @Sanchit
+
+/This was rescheduled from 22nd June/
 
 We discussed conditions for an upper half function that makes it a modular
 form.
