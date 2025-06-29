@@ -51,8 +51,8 @@ SCHEDULED: <2025-07-06 Sun>
 
 #+HTML: <br><br>
 
-** UPCOMING BBMP #4
-SCHEDULED: <2025-06-29 Sun 14:00-16:00>
+** DONE BBMP #4
+CLOSED: [2025-06-29 Sun 18:25] SCHEDULED: <2025-06-29 Sun 14:00-16:00>
 :PROPERTIES:
 :LOCATION: Dialogues Cafe, Koramangala
 :ID:       02fb7554-5948-4094-ba49-66f482b8e622
@@ -60,10 +60,8 @@ SCHEDULED: <2025-06-29 Sun 14:00-16:00>
 
 /This is rescheduled from 22nd June/
 
-While we can't plan the meetup completely, expect at least the following:
-1. @Manas to cover /alleged/ Fermat's proof for FLT
-2. @Abhinav to either continue Modular forms or cover Lean formalization for
-   FLT(n=3)
+We discussed conditions for an upper half function that makes it a modular
+form.
 
 #+HTML: <br><br>
 
