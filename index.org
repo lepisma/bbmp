@@ -64,7 +64,7 @@ SCHEDULED: <2025-07-06 Sun 14:00-16:00>
 Tentative agenda (we will pick a few of these based on people's availability and
 time):
 
-1. @Manas to cover alleged Fermat's proof of FLT for $n=3$
+1. @Manas to cover alleged Fermat's proof of FLT
 2. @Satvik to cover Johnson–Lindenstrauss lemma
 3. @Abhinav to cover Eisenstein Series
 
