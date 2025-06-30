@@ -19,7 +19,8 @@ archives. You can subscribe to the event calendar [[https://bbmp.club/cal.ics][h
 To contribute, add content, or suggest changes, please submit PRs [[https://github.com/lepisma/bbmp/blob/main/index.org][here]]. The file
 is an Org Mode file that gets converted to this HTML.
 
-Since we don't have a group email ID, to contact us please write to [[https://lepisma.xyz/wiki/about/contact.html][Abhinav]].
+Since we don't have a group email ID, to contact us please write to
+[[https://lepisma.xyz/wiki/about/contact.html][Abhinav]]. Find more Mathematics groups in Bengaluru [[https://lepisma.xyz/wiki/mathematics/#sec-clubs][here]]!
 
 #+begin_export html
 <style>
