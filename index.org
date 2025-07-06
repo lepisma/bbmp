@@ -62,6 +62,8 @@ SCHEDULED: <2025-07-13 Sun 14:00-16:00>
 :LOCATION: Dialogues Cafe, Koramangala
 :END:
 
+#+HTML: <br><br>
+
 ** DONE BBMP #5
 CLOSED: [2025-07-06 Sun 16:20] SCHEDULED: <2025-07-06 Sun 14:00-16:00>
 :PROPERTIES:
