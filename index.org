@@ -73,7 +73,11 @@ CLOSED: [2025-07-13 Sun 16:35] SCHEDULED: <2025-07-13 Sun 14:00-16:00>
 
 Participants: @Ravi, @Utsav, and @Abhinav
 
-We discussed some linear algebra and theorem provers.
+We discussed some linear algebra and theorem provers. 
+
+#+CAPTION: This was also a change of venue where we used a public park. We might continue doing this for future meetups too.
+#+ATTR_HTML: :class zoomTarget :data-closeclick true
+[[file:./images/6/park.jpeg]]
 
 *** Links
 1. [[https://linear.axler.net/][Linear Algebra Done Right - Sheldon Axler]]
