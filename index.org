@@ -55,12 +55,28 @@ Since we don't have a group email ID, to contact us please write to
 
 * Archive
 
-** UPCOMING BBMP #6
-SCHEDULED: <2025-07-13 Sun 14:00-16:00>
+** UPCOMING BBMP #7
+SCHEDULED: <2025-07-20 Sun 14:00-16:00>
 :PROPERTIES:
-:ID:       407528c4-ccbd-40ac-998b-695a4bd2f8b5
+:ID:       e00a7849-0287-4024-a905-9003cbc8ba01
 :LOCATION: Dialogues Cafe, Koramangala
 :END:
+
+#+HTML: <br><br>
+
+** DONE BBMP #6
+CLOSED: [2025-07-13 Sun 16:35] SCHEDULED: <2025-07-13 Sun 14:00-16:00>
+:PROPERTIES:
+:ID:       407528c4-ccbd-40ac-998b-695a4bd2f8b5
+:LOCATION: Hemavathi Park, HSR Layout
+:END:
+
+Participants: @Ravi, @Utsav, and @Abhinav
+
+We discussed some linear algebra and theorem provers.
+
+*** Links
+1. [[https://linear.axler.net/][Linear Algebra Done Right - Sheldon Axler]]
 
 #+HTML: <br><br>
 
