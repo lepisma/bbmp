@@ -9,6 +9,9 @@
   body {
     padding-left: 0 !important;
   }
+  pre {
+    background-color: unset !important;
+  }
 </style>
 #+end_export
 
@@ -21,14 +24,6 @@ is an Org Mode file that gets converted to this HTML.
 
 Since we don't have a group email ID, to contact us please write to
 [[https://lepisma.xyz/wiki/about/contact.html][Abhinav]]. Find more Mathematics groups in Bengaluru [[https://lepisma.xyz/wiki/mathematics/#sec-clubs][here]]!
-
-#+begin_export html
-<style>
-  pre {
-  background-color: unset !important;
-  }
-</style>
-#+end_export
 
 #+begin_src emacs-lisp :exports none
   ;; Run this code block to perform export and additional side acts
@@ -56,11 +51,13 @@ Since we don't have a group email ID, to contact us please write to
 * Archive
 
 ** UPCOMING BBMP #7
-SCHEDULED: <2025-07-20 Sun 14:00-16:00>
+SCHEDULED: <2025-07-27 Sun 14:00-16:00>
 :PROPERTIES:
 :ID:       e00a7849-0287-4024-a905-9003cbc8ba01
 :LOCATION: Dialogues Cafe, Koramangala
 :END:
+
+/This is rescheduled from 20th  July/
 
 #+HTML: <br><br>
 
