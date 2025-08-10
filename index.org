@@ -50,14 +50,28 @@ Since we don't have a group email ID, to contact us please write to
 
 * Archive
 
-** UPCOMING BBMP #7
+** BBMP #8
+SCHEDULED: <2025-08-17 Sun>
+:PROPERTIES:
+:ID:       cb658240-0004-4b42-be22-5ff62d3bda5f
+:LOCATION: Dialogues Cafe, Koramangala
+:END:
+
+#+HTML: <br><br>
+
+** DONE BBMP #7
 SCHEDULED: <2025-08-10 Sun 14:00-16:00>
 :PROPERTIES:
 :ID:       e00a7849-0287-4024-a905-9003cbc8ba01
 :LOCATION: Dialogues Cafe, Koramangala
 :END:
 
-/This is rescheduled from 20th  July/
+Participants: @Ravi, @Abhinav, and @Prashant
+
+We discussed mathematics involved in camera setups. And a syntax for a toy
+theorem prover on $\mathbb{Z}$.
+
+/This was rescheduled from 20th  July/
 
 #+HTML: <br><br>
 
