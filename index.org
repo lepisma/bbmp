@@ -51,11 +51,30 @@ Since we don't have a group email ID, to contact us please write to
 * Archive
 
 ** UPCOMING BBMP #8
-SCHEDULED: <2025-08-24 Sun>
+SCHEDULED: <2025-08-31 Sun>
 :PROPERTIES:
 :ID:       cb658240-0004-4b42-be22-5ff62d3bda5f
 :LOCATION: Dialogues Cafe, Koramangala
 :END:
+
+#+HTML: <br><br>
+
+** DONE BBMP CoWatch #0
+SCHEDULED: <2025-08-24 Sun>
+:PROPERTIES:
+:ID:       04605678-1591-4416-b9a7-abbf229f0c1f
+:LOCATION: Online
+:END:
+
+Participants: @Utsav and @Abhinav
+
+We started a cowatching series where we watch a talk or lecture together. For
+this session we covered /Forbidden Crystal Symmetry/ by Roger Penrose.
+
+#+begin_export html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7UZvFjXIpSk?si=HLKz3zw7oJ1ca9s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br><br>
+#+end_export
 
 #+HTML: <br><br>
 
