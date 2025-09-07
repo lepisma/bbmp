@@ -52,6 +52,8 @@ Since we don't have a group email ID, to contact us please write to
 
 ** UPCOMING BBMP #9
 
+#+HTML: <br><br>
+
 ** DONE BBMP #8
 CLOSED: [2025-09-07 Sun 16:37] SCHEDULED: <2025-09-07 Sun 14:00-16:00>
 :PROPERTIES:
@@ -67,7 +69,7 @@ We discussed:
    Retrieval]], and parts of Shannon's paper on Entropy: [[https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication][A Mathematical Theory of
    Communication - Wikipedia]].
 2. Abhinav covered Schur's Theorem around Schur's triples and then his 1916
-   theorem that gives a solution $x^n+y^n ≡ z^n (mod p)$.
+   theorem that gives integer solutions to $x^n+y^n ≡ z^n (mod p)$.
 
 #+HTML: <br><br>
 
