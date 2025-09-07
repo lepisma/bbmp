@@ -50,12 +50,24 @@ Since we don't have a group email ID, to contact us please write to
 
 * Archive
 
-** UPCOMING BBMP #8
-SCHEDULED: <2025-09-07 Sun>
+** UPCOMING BBMP #9
+
+** DONE BBMP #8
+CLOSED: [2025-09-07 Sun 16:37] SCHEDULED: <2025-09-07 Sun 14:00-16:00>
 :PROPERTIES:
 :ID:       cb658240-0004-4b42-be22-5ff62d3bda5f
-:LOCATION: Dialogues Cafe, Koramangala
+:LOCATION: Green Park Sector 2, HSR Layout
 :END:
+
+Participants: @Ravi, @Abhinav, and @Utsav
+
+We discussed:
+1. Utsav covered his progress in Axler's book, foundational argument of the
+   recent work [[https://arxiv.org/abs/2508.21038][{2508.21038} On the Theoretical Limitations of Embedding-Based
+   Retrieval]], and parts of Shannon's paper on Entropy: [[https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication][A Mathematical Theory of
+   Communication - Wikipedia]].
+2. Abhinav covered Schur's Theorem around Schur's triples and then his 1916
+   theorem that gives a solution $x^n+y^n ≡ z^n (mod p)$.
 
 #+HTML: <br><br>
 
