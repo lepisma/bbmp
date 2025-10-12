@@ -1,6 +1,6 @@
 #+TITLE: BBMP: BB@@html:<span style="color: gray">@@engaluru @@html:</span>@@M@@html:<span style="color: gray">@@athematics Club@@html:</span>@@P
 #+TODO: UPCOMING | DONE
-#+OPTIONS: toc:nil p:t prop:t
+#+OPTIONS: toc:1 p:t prop:t
 
 #+HTML_HEAD: <link rel="stylesheet" href="https://edwardtufte.github.io/tufte-css/tufte.css">
 
@@ -47,6 +47,19 @@ Since we don't have a group email ID, to contact us please write to
 
 #+RESULTS:
 : index.html
+
+#+HTML: <br><br>
+
+* Monthly CoWatch
+SCHEDULED: <%%(diary-float t 0 2) 14:00>
+:PROPERTIES:
+:ID:       526514e8-7711-476d-97a9-249d2620c67a
+:LOCATION: Online
+:END:
+
+Monthly Mathematics lecture cowatch session.
+
+#+HTML: <br><br>
 
 * Archive
 
