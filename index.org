@@ -67,6 +67,22 @@ Monthly Mathematics lecture cowatch session.
 
 #+HTML: <br><br>
 
+** DONE BBMP CoWatch #1
+SCHEDULED: <2025-10-12 Sun>
+:PROPERTIES:
+:ID:       04605678-1591-4416-b9a7-abbf229f0c1f
+:LOCATION: Online
+:END:
+
+Participants: @Abhinav ;)
+
+#+begin_export html
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/K5w7VS2sxD0?si=AWeh0Iri_QnebQWo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<br><br>
+#+end_export
+
+#+HTML: <br><br>
+
 ** DONE BBMP #8
 CLOSED: [2025-09-07 Sun 16:37] SCHEDULED: <2025-09-07 Sun 14:00-16:00>
 :PROPERTIES:
@@ -99,7 +115,7 @@ We started a cowatching series where we watch a talk or lecture together. For
 this session we covered /Forbidden Crystal Symmetry/ by Roger Penrose.
 
 #+begin_export html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/7UZvFjXIpSk?si=HLKz3zw7oJ1ca9s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/7UZvFjXIpSk?si=HLKz3zw7oJ1ca9s3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <br><br>
 #+end_export
 
