@@ -51,7 +51,7 @@ Since we don't have a group email ID, to contact us please write to
 #+HTML: <br><br>
 
 * Monthly CoWatch
-SCHEDULED: <%%(diary-float t 0 2) 14:00>
+SCHEDULED: <%%(diary-float t 0 2) 14:00-15:00>
 :PROPERTIES:
 :ID:       526514e8-7711-476d-97a9-249d2620c67a
 :LOCATION: Online
